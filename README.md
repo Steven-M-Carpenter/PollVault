@@ -38,37 +38,44 @@ There are 3 distinct personas for this application
 To properly experience this application you will need 4 browser windows to be used in the following ways:
 
 ##### Window 1 - Publisher
-        * Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/regAdmin
-        * Click the button to confirm your intent to be a publisher
-        * The application will take you to the publisher screen (http://pure-plains-52371.herokuapp.com/publish)
+---
+* Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/regAdmin
+* Click the button to confirm your intent to be a publisher
+* The application will take you to the publisher screen (http://pure-plains-52371.herokuapp.com/publish)
 
 ##### Window 2 - Subscriber A
-        * Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/
-        * You will be presented with a sample registration screen
-        * Provide the requested data and click the Submit button
-        * The application will take you to the subscriber screen (http://pure-plains-52371.herokuapp.com/subscribe)
+---
+* Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/
+* You will be presented with a sample registration screen
+* Provide the requested data and click the Submit button
+* The application will take you to the subscriber screen (http://pure-plains-52371.herokuapp.com/subscribe)
 
 ##### Window 3 - Subscriber B
-        * The purpose of the second subscriber is to demonstrate a multi-user experience
-        * Complete the steps above for this subscriber as well, varying data as desired
+---
+* The purpose of the second subscriber is to demonstrate a multi-user experience
+* Complete the steps above for this subscriber as well, varying data as desired
 
 ##### Window 1 - Publisher
-        * Type a Yes/No question into the space provided
-        * Type "Yes" for button 1 text
-        * Type "No" for button 2 text
-        * Click Send to initiate the survey
+---
+* Type a Yes/No question into the space provided
+* Type "Yes" for button 1 text
+* Type "No" for button 2 text
+* Click Send to initiate the survey
 
 ##### Windows 2 & 3 - Subscribers A & B
-        * Review the question prompt sent from the publisher
-        * Click the button to correspond to your answer Yes, No, or Pass
+---
+* Review the question prompt sent from the publisher
+* Click the button to correspond to your answer Yes, No, or Pass
 
 ##### Window 1 - Publisher (optional)
-        * To prevent any late responses, click the Close Poll button
+---
+* To prevent any late responses, click the Close Poll button
 
 ##### Window 4 - Consumer
-        * Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/reports
-        * Select the question to report on from the pull-down menu
-        * Click the generate button to see the output
+---
+* Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/reports
+* Select the question to report on from the pull-down menu
+* Click the generate button to see the output
 
 ### Link
 The link below will allow you to access the application from your browser:
