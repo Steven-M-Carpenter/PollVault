@@ -37,6 +37,7 @@ There are 3 distinct personas for this application
 
 To properly experience this application you will need 4 browser windows to be used in the following ways:
 
+
 ##### Window 1 - Publisher
 ---
 * Access the application on Heroku at:  http://pure-plains-52371.herokuapp.com/regAdmin
